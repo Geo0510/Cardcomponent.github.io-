@@ -70,7 +70,7 @@ img {
 .container_text {
   color: hsl(215, 51%, 70%);
   font-size: 18px;
-  margin-bottom: 0;
+  /* margin-bottom: 0; */
 }
 
 .container_moreinfo {
