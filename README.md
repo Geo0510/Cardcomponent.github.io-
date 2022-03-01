@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://geo0510.github.io/Cardcomponent.github.io-/)
+- Live Site URL: [https://geo0510.github.io/Cardcomponent.github.io-/]
 
 ## My process
 
