@@ -8,6 +8,11 @@ body {
   background-color: hsl(217, 54%, 11%);
   color: hsl(0, 0%, 100%);
   font-family: "Outfit", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 img {
@@ -55,7 +60,6 @@ img {
 .container {
   position: relative;
   width: 350px;
-  margin: 5em auto 5em auto;
   padding: 20px;
   background-color: hsl(216, 50%, 16%);
   border-radius: 15px;
