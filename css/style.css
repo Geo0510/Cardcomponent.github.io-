@@ -30,8 +30,8 @@ img {
 
 .container_imag-icon {
   position: absolute;
-  top: 130px;
-  right: 130px;
+  top: 110px;
+  left: 95px;
 }
 
 .container_line {
@@ -55,7 +55,7 @@ img {
 .container {
   position: relative;
   width: 350px;
-  margin: 4em auto 4em auto;
+  margin: 150px auto 140px auto;
   padding: 20px;
   background-color: hsl(216, 50%, 16%);
   border-radius: 15px;
